@@ -1,0 +1,70 @@
+@media (min-width: 320px) and (max-width: 500px) {
+
+    .banner-area{
+        padding: 0;
+    }
+
+    .banner-news-item {
+        margin: 15px 0;
+    }
+    .post-content .post-meta h2 {
+        font-size: 12px!important;
+    }
+    .nav-brand img {
+        width: 100%;
+    }
+    .header-area .mag-main-menu .top-search-area form input {
+        width: 150px;
+    }
+    .mag-posts-content {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 calc(100% - 30px);
+        flex: 0 0 calc(100% - 30px);
+        max-width: fit-content;
+        width: 100%;
+    }
+    .category-page-carousel .owl-nav{
+        text-align: center;
+    }
+    .category-page-carousel .owl-prev{
+        display: inline;
+    }
+    .category-page-carousel .owl-next{
+        display: inline;
+    }
+
+}
+
+
+
+
+
+
+@media (min-width: 500px) and (max-width: 768px) {
+    .category-page-carousel .owl-nav{
+        text-align: center;
+    }
+    .category-page-carousel .owl-prev{
+        display: inline;
+    }
+    .category-page-carousel .owl-next{
+        display: inline;
+    }
+}
+
+
+@media (min-width: 500px) and (max-width: 768px) {
+    .category-page-carousel .owl-nav{
+        text-align: center;
+    }
+    .category-page-carousel .owl-prev{
+        display: inline;
+    }
+    .category-page-carousel .owl-next{
+        display: inline;
+    }
+    .col-md-6{
+        flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+}
